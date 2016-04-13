@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Showtime/View controllers/ViewController.swift"
+            timestampString = "482242052.635938"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "textFieldDidEndEditing(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Showtime/Data/MovieService.swift"
+            timestampString = "482242998.224805"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "loadMoviesWithLimit(_:onComplete:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Showtime.MovieService.(loadMoviesWithLimit (Swift.Double, onComplete : (Swift.Array&lt;Showtime.Movie&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "Showtime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dr/Projects/Showtime-Starter/Native/Showtime/Showtime/Data/MovieService.swift"
+                  timestampString = "482242074.221591"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Showtime.MovieService.(loadMoviesWithLimit (Swift.Double, onComplete : (Swift.Array&lt;Showtime.Movie&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "Showtime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dr/Projects/Showtime-Starter/Native/Showtime/Showtime/Data/MovieService.swift"
+                  timestampString = "482242074.221747"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "131">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
